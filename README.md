@@ -8,8 +8,9 @@ Dado que el objetivo es predecir si una línea será renovada o no, es un proble
 * Regresión Logística
 * Árboles de decisión (Random Forest)
 * XGBoost
-* Redes Neuronales Artificiales
 
 Los modelos desarrollados se guardaran en formato *.pkl*.
 
-Finalmente se evaluará el rendimiento de cada uno de los modelos con un conjunto de validación y se realizarán las predicciones para el mes de abril.
+Se evaluará el rendimiento de cada uno de los modelos con un conjunto de prueba y se realizarán las predicciones para el mes de abril. 
+
+Se realizará una comparación de los resultados obtenidos por cada uno de los 3 modelos y por últimmo, podremos escoger el modelo que presenta mejor rendimiento.
